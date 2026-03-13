@@ -24,7 +24,7 @@ $\bar{y}$ e $\bar{x}$ são as médias
 
 
 <img src="images/res.png" width="50%">  
-> Exemplo de execução.
+> Exemplo de execução.  
 
 
 Ja implementei regressão Linear em Python no repositório Codigos ISL.  
