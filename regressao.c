@@ -3,17 +3,17 @@
 #include "regressao.h"
 
 Regressao calcular_regressao(double *x, double *y, int n) {
-    double x_mean, y_mean;
+    double x_mean=0.0, y_mean=0.0;
     int i;
     for(i = 0; i<n; i++) {
-        x_mean += x[i]
-        y_mean += y[i]
+        x_mean += x[i];
+        y_mean += y[i];
     }
 
     x_mean = x_mean/n;
     y_mean = y_mean/n;
 
-    double num, den;
+    double num=0.0, den=0.0;
 
     for(i = 0; i<n;i++) {
         num += (x[i] - x_mean) * (y[i] - y_mean);
