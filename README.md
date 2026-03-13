@@ -20,7 +20,7 @@ $$
 b0 = \bar{y} - b1 \bar{x}
 $$
 
-ÿ e ẍ são as médias
+$\bar{y}$ e $\bar{x}$ são as médias
 
 
 
